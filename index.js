@@ -9,4 +9,5 @@ const header= document.createElement('h1')
 header.id= 'victory'
 console.log(header)
 header.innerText='Katelyn is the champion!'
+document.body.appendChild(header)
 const newHeader = null 
