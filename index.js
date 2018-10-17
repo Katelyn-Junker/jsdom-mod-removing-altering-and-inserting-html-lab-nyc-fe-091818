@@ -10,3 +10,4 @@ header.id= 'victory'
 header.innerText='Katelyn is the champion!'
 document.body.appendChild(header)
 const newHeader = document.querySelector('#victory');
+console.log(newHeader)
